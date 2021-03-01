@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "uGrldMbUFQmPdcuZB1wnDbmDg1qlkzW/dxhqnQocvGMLFE9CYSP+zKDENehnHPT0apEFR5gwb/ijYG5UrGLNYg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Паша\\Desktop\\ВКР 16\\Библиотеки\\4) CheckingTheScheme\\CheckingTheScheme\\CheckingTheScheme\\CheckingTheScheme.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Паша\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Паша\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

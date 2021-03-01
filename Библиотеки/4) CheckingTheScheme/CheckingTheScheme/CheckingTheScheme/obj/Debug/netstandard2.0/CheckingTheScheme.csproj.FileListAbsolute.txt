@@ -1,0 +1,24 @@
+C:\Users\Паша\Desktop\ВКР 16\Библиотеки\CheckingTheScheme\CheckingTheScheme\CheckingTheScheme\bin\Debug\netstandard2.0\CheckingTheScheme.deps.json
+C:\Users\Паша\Desktop\ВКР 16\Библиотеки\CheckingTheScheme\CheckingTheScheme\CheckingTheScheme\bin\Debug\netstandard2.0\CheckingTheScheme.dll
+C:\Users\Паша\Desktop\ВКР 16\Библиотеки\CheckingTheScheme\CheckingTheScheme\CheckingTheScheme\bin\Debug\netstandard2.0\CheckingTheScheme.pdb
+C:\Users\Паша\Desktop\ВКР 16\Библиотеки\CheckingTheScheme\CheckingTheScheme\CheckingTheScheme\bin\Debug\netstandard2.0\ClassesGraph.pdb
+C:\Users\Паша\Desktop\ВКР 16\Библиотеки\CheckingTheScheme\CheckingTheScheme\CheckingTheScheme\bin\Debug\netstandard2.0\OperatorAlgorithm.pdb
+C:\Users\Паша\Desktop\ВКР 16\Библиотеки\CheckingTheScheme\CheckingTheScheme\CheckingTheScheme\obj\Debug\netstandard2.0\CheckingTheScheme.csprojAssemblyReference.cache
+C:\Users\Паша\Desktop\ВКР 16\Библиотеки\CheckingTheScheme\CheckingTheScheme\CheckingTheScheme\obj\Debug\netstandard2.0\CheckingTheScheme.AssemblyInfoInputs.cache
+C:\Users\Паша\Desktop\ВКР 16\Библиотеки\CheckingTheScheme\CheckingTheScheme\CheckingTheScheme\obj\Debug\netstandard2.0\CheckingTheScheme.AssemblyInfo.cs
+C:\Users\Паша\Desktop\ВКР 16\Библиотеки\CheckingTheScheme\CheckingTheScheme\CheckingTheScheme\obj\Debug\netstandard2.0\CheckingTheScheme.csproj.CoreCompileInputs.cache
+C:\Users\Паша\Desktop\ВКР 16\Библиотеки\CheckingTheScheme\CheckingTheScheme\CheckingTheScheme\obj\Debug\netstandard2.0\CheckingTheScheme.csproj.CopyComplete
+C:\Users\Паша\Desktop\ВКР 16\Библиотеки\CheckingTheScheme\CheckingTheScheme\CheckingTheScheme\obj\Debug\netstandard2.0\CheckingTheScheme.dll
+C:\Users\Паша\Desktop\ВКР 16\Библиотеки\CheckingTheScheme\CheckingTheScheme\CheckingTheScheme\obj\Debug\netstandard2.0\CheckingTheScheme.pdb
+C:\Users\Паша\Desktop\ВКР 16\Библиотеки\4) CheckingTheScheme\CheckingTheScheme\CheckingTheScheme\obj\Debug\netstandard2.0\CheckingTheScheme.csprojAssemblyReference.cache
+C:\Users\Паша\Desktop\ВКР 16\Библиотеки\4) CheckingTheScheme\CheckingTheScheme\CheckingTheScheme\obj\Debug\netstandard2.0\CheckingTheScheme.AssemblyInfoInputs.cache
+C:\Users\Паша\Desktop\ВКР 16\Библиотеки\4) CheckingTheScheme\CheckingTheScheme\CheckingTheScheme\obj\Debug\netstandard2.0\CheckingTheScheme.AssemblyInfo.cs
+C:\Users\Паша\Desktop\ВКР 16\Библиотеки\4) CheckingTheScheme\CheckingTheScheme\CheckingTheScheme\obj\Debug\netstandard2.0\CheckingTheScheme.csproj.CoreCompileInputs.cache
+C:\Users\Паша\Desktop\ВКР 16\Библиотеки\4) CheckingTheScheme\CheckingTheScheme\CheckingTheScheme\obj\Debug\netstandard2.0\CheckingTheScheme.dll
+C:\Users\Паша\Desktop\ВКР 16\Библиотеки\4) CheckingTheScheme\CheckingTheScheme\CheckingTheScheme\obj\Debug\netstandard2.0\CheckingTheScheme.pdb
+C:\Users\Паша\Desktop\ВКР 16\Библиотеки\4) CheckingTheScheme\CheckingTheScheme\CheckingTheScheme\bin\Debug\netstandard2.0\CheckingTheScheme.deps.json
+C:\Users\Паша\Desktop\ВКР 16\Библиотеки\4) CheckingTheScheme\CheckingTheScheme\CheckingTheScheme\bin\Debug\netstandard2.0\CheckingTheScheme.dll
+C:\Users\Паша\Desktop\ВКР 16\Библиотеки\4) CheckingTheScheme\CheckingTheScheme\CheckingTheScheme\bin\Debug\netstandard2.0\CheckingTheScheme.pdb
+C:\Users\Паша\Desktop\ВКР 16\Библиотеки\4) CheckingTheScheme\CheckingTheScheme\CheckingTheScheme\bin\Debug\netstandard2.0\ClassesGraph.pdb
+C:\Users\Паша\Desktop\ВКР 16\Библиотеки\4) CheckingTheScheme\CheckingTheScheme\CheckingTheScheme\bin\Debug\netstandard2.0\OperatorAlgorithm.pdb
+C:\Users\Паша\Desktop\ВКР 16\Библиотеки\4) CheckingTheScheme\CheckingTheScheme\CheckingTheScheme\obj\Debug\netstandard2.0\CheckingTheScheme.csproj.CopyComplete

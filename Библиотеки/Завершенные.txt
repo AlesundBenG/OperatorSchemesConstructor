@@ -1,0 +1,7 @@
+0) OperatorAlgorithm			+
+1) AlgorithmGenerator			+
+2) CheckingTheMatrix			+
+3) ClassesGraph
+4) InterfaceGSA
+5) CheckingTheGraph
+6) CheckingTheLogicScheme

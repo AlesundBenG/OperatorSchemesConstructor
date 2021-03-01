@@ -1,0 +1,32 @@
+C:\Users\Паша\Desktop\ВКР\AlgorithmGenerator\AlgorithmGenerator\bin\Debug\AlgorithmGenerator.dll
+C:\Users\Паша\Desktop\ВКР\AlgorithmGenerator\AlgorithmGenerator\bin\Debug\AlgorithmGenerator.pdb
+C:\Users\Паша\Desktop\ВКР\AlgorithmGenerator\AlgorithmGenerator\obj\Debug\AlgorithmGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Паша\Desktop\ВКР\AlgorithmGenerator\AlgorithmGenerator\obj\Debug\AlgorithmGenerator.dll
+C:\Users\Паша\Desktop\ВКР\AlgorithmGenerator\AlgorithmGenerator\obj\Debug\AlgorithmGenerator.pdb
+C:\Users\Паша\Desktop\ВКР\AlgorithmGenerator\AlgorithmGenerator\bin\Debug\Transition.pdb
+C:\Users\Паша\Desktop\Учеба\Курсач 8 семестр\Библиотеки\AlgorithmGenerator\AlgorithmGenerator\bin\Debug\AlgorithmGenerator.dll
+C:\Users\Паша\Desktop\Учеба\Курсач 8 семестр\Библиотеки\AlgorithmGenerator\AlgorithmGenerator\bin\Debug\AlgorithmGenerator.pdb
+C:\Users\Паша\Desktop\Учеба\Курсач 8 семестр\Библиотеки\AlgorithmGenerator\AlgorithmGenerator\obj\Debug\AlgorithmGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Паша\Desktop\Учеба\Курсач 8 семестр\Библиотеки\AlgorithmGenerator\AlgorithmGenerator\obj\Debug\AlgorithmGenerator.dll
+C:\Users\Паша\Desktop\Учеба\Курсач 8 семестр\Библиотеки\AlgorithmGenerator\AlgorithmGenerator\obj\Debug\AlgorithmGenerator.pdb
+C:\Users\Паша\Desktop\Учеба\ВКР\Библиотеки\AlgorithmGenerator\AlgorithmGenerator\bin\Debug\AlgorithmGenerator.dll
+C:\Users\Паша\Desktop\Учеба\ВКР\Библиотеки\AlgorithmGenerator\AlgorithmGenerator\bin\Debug\AlgorithmGenerator.pdb
+C:\Users\Паша\Desktop\Учеба\ВКР\Библиотеки\AlgorithmGenerator\AlgorithmGenerator\obj\Debug\AlgorithmGenerator.csprojResolveAssemblyReference.cache
+C:\Users\Паша\Desktop\Учеба\ВКР\Библиотеки\AlgorithmGenerator\AlgorithmGenerator\obj\Debug\AlgorithmGenerator.dll
+C:\Users\Паша\Desktop\Учеба\ВКР\Библиотеки\AlgorithmGenerator\AlgorithmGenerator\obj\Debug\AlgorithmGenerator.pdb
+C:\Users\Паша\Desktop\Учеба\ВКР\Библиотеки\1) AlgorithmGenerator\AlgorithmGenerator\bin\Debug\AlgorithmGenerator.dll
+C:\Users\Паша\Desktop\Учеба\ВКР\Библиотеки\1) AlgorithmGenerator\AlgorithmGenerator\bin\Debug\AlgorithmGenerator.pdb
+C:\Users\Паша\Desktop\Учеба\ВКР\Библиотеки\1) AlgorithmGenerator\AlgorithmGenerator\bin\Debug\OperatorAlgorithm.pdb
+C:\Users\Паша\Desktop\Учеба\ВКР\Библиотеки\1) AlgorithmGenerator\AlgorithmGenerator\obj\Debug\AlgorithmGenerator.dll
+C:\Users\Паша\Desktop\Учеба\ВКР\Библиотеки\1) AlgorithmGenerator\AlgorithmGenerator\obj\Debug\AlgorithmGenerator.pdb
+C:\Users\Паша\Desktop\Учеба\ВКР\Библиотеки\1) AlgorithmGenerator\AlgorithmGenerator\obj\Debug\AlgorithmGenerator.csprojAssemblyReference.cache
+C:\Users\Паша\Desktop\Учеба\ВКР\Библиотеки\1) AlgorithmGenerator\AlgorithmGenerator\obj\Debug\AlgorithmGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Паша\Desktop\Учеба\ВКР\Библиотеки\1) AlgorithmGenerator\AlgorithmGenerator\obj\Debug\AlgorithmGenerator.csproj.CopyComplete
+C:\Users\Паша\Desktop\ВКР 16\Библиотеки\1) AlgorithmGenerator\AlgorithmGenerator\bin\Debug\AlgorithmGenerator.dll
+C:\Users\Паша\Desktop\ВКР 16\Библиотеки\1) AlgorithmGenerator\AlgorithmGenerator\bin\Debug\AlgorithmGenerator.pdb
+C:\Users\Паша\Desktop\ВКР 16\Библиотеки\1) AlgorithmGenerator\AlgorithmGenerator\bin\Debug\OperatorAlgorithm.pdb
+C:\Users\Паша\Desktop\ВКР 16\Библиотеки\1) AlgorithmGenerator\AlgorithmGenerator\obj\Debug\AlgorithmGenerator.csprojAssemblyReference.cache
+C:\Users\Паша\Desktop\ВКР 16\Библиотеки\1) AlgorithmGenerator\AlgorithmGenerator\obj\Debug\AlgorithmGenerator.csproj.CoreCompileInputs.cache
+C:\Users\Паша\Desktop\ВКР 16\Библиотеки\1) AlgorithmGenerator\AlgorithmGenerator\obj\Debug\AlgorithmGenerator.csproj.CopyComplete
+C:\Users\Паша\Desktop\ВКР 16\Библиотеки\1) AlgorithmGenerator\AlgorithmGenerator\obj\Debug\AlgorithmGenerator.dll
+C:\Users\Паша\Desktop\ВКР 16\Библиотеки\1) AlgorithmGenerator\AlgorithmGenerator\obj\Debug\AlgorithmGenerator.pdb

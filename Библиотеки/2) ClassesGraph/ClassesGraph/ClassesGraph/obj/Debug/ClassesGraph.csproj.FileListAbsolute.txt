@@ -1,0 +1,10 @@
+C:\Users\Паша\Desktop\Учеба\ВКР\Библиотеки\ClassesGraph\ClassesGraph\ClassesGraph\bin\Debug\ClassesGraph.dll
+C:\Users\Паша\Desktop\Учеба\ВКР\Библиотеки\ClassesGraph\ClassesGraph\ClassesGraph\bin\Debug\ClassesGraph.pdb
+C:\Users\Паша\Desktop\Учеба\ВКР\Библиотеки\ClassesGraph\ClassesGraph\ClassesGraph\obj\Debug\ClassesGraph.dll
+C:\Users\Паша\Desktop\Учеба\ВКР\Библиотеки\ClassesGraph\ClassesGraph\ClassesGraph\obj\Debug\ClassesGraph.pdb
+C:\Users\Паша\Desktop\Учеба\ВКР\Библиотеки\ClassesGraph\ClassesGraph\ClassesGraph\obj\Debug\ClassesGraph.csprojResolveAssemblyReference.cache
+C:\Users\Паша\Desktop\Учеба\ВКР\Библиотеки\3) ClassesGraph\ClassesGraph\ClassesGraph\bin\Debug\ClassesGraph.dll
+C:\Users\Паша\Desktop\Учеба\ВКР\Библиотеки\3) ClassesGraph\ClassesGraph\ClassesGraph\bin\Debug\ClassesGraph.pdb
+C:\Users\Паша\Desktop\Учеба\ВКР\Библиотеки\3) ClassesGraph\ClassesGraph\ClassesGraph\obj\Debug\ClassesGraph.csprojResolveAssemblyReference.cache
+C:\Users\Паша\Desktop\Учеба\ВКР\Библиотеки\3) ClassesGraph\ClassesGraph\ClassesGraph\obj\Debug\ClassesGraph.dll
+C:\Users\Паша\Desktop\Учеба\ВКР\Библиотеки\3) ClassesGraph\ClassesGraph\ClassesGraph\obj\Debug\ClassesGraph.pdb

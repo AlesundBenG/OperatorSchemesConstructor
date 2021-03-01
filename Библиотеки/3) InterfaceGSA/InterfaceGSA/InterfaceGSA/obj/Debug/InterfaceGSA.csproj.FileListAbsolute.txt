@@ -1,0 +1,12 @@
+C:\Users\Паша\Desktop\Учеба\Курсач 8 семестр\Библиотеки\InterfaceGSA\InterfaceGSA\InterfaceGSA\bin\Debug\InterfaceGSA.dll
+C:\Users\Паша\Desktop\Учеба\Курсач 8 семестр\Библиотеки\InterfaceGSA\InterfaceGSA\InterfaceGSA\bin\Debug\InterfaceGSA.pdb
+C:\Users\Паша\Desktop\Учеба\Курсач 8 семестр\Библиотеки\InterfaceGSA\InterfaceGSA\InterfaceGSA\obj\Debug\InterfaceGSA.csprojResolveAssemblyReference.cache
+C:\Users\Паша\Desktop\Учеба\Курсач 8 семестр\Библиотеки\InterfaceGSA\InterfaceGSA\InterfaceGSA\obj\Debug\InterfaceGSA.dll
+C:\Users\Паша\Desktop\Учеба\Курсач 8 семестр\Библиотеки\InterfaceGSA\InterfaceGSA\InterfaceGSA\obj\Debug\InterfaceGSA.pdb
+C:\Users\Паша\Desktop\Учеба\Курсач 8 семестр\Библиотеки\InterfaceGSA\InterfaceGSA\InterfaceGSA\bin\Debug\Classes.pdb
+C:\Users\Паша\Desktop\Учеба\ВКР\Библиотеки\4) InterfaceGSA\InterfaceGSA\InterfaceGSA\bin\Debug\InterfaceGSA.dll
+C:\Users\Паша\Desktop\Учеба\ВКР\Библиотеки\4) InterfaceGSA\InterfaceGSA\InterfaceGSA\bin\Debug\InterfaceGSA.pdb
+C:\Users\Паша\Desktop\Учеба\ВКР\Библиотеки\4) InterfaceGSA\InterfaceGSA\InterfaceGSA\obj\Debug\InterfaceGSA.csprojResolveAssemblyReference.cache
+C:\Users\Паша\Desktop\Учеба\ВКР\Библиотеки\4) InterfaceGSA\InterfaceGSA\InterfaceGSA\obj\Debug\InterfaceGSA.dll
+C:\Users\Паша\Desktop\Учеба\ВКР\Библиотеки\4) InterfaceGSA\InterfaceGSA\InterfaceGSA\obj\Debug\InterfaceGSA.pdb
+C:\Users\Паша\Desktop\Учеба\ВКР\Библиотеки\4) InterfaceGSA\InterfaceGSA\InterfaceGSA\bin\Debug\ClassesGraph.pdb

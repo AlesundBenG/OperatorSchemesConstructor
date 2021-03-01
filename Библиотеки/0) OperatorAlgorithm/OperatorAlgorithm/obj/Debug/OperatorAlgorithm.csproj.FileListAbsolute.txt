@@ -1,0 +1,23 @@
+C:\Users\Паша\Desktop\Учеба\ВКР\Библиотеки\OperatorAlgorithm\OperatorAlgorithm\bin\Debug\OperatorAlgorithm.dll
+C:\Users\Паша\Desktop\Учеба\ВКР\Библиотеки\OperatorAlgorithm\OperatorAlgorithm\bin\Debug\OperatorAlgorithm.pdb
+C:\Users\Паша\Desktop\Учеба\ВКР\Библиотеки\OperatorAlgorithm\OperatorAlgorithm\obj\Debug\OperatorAlgorithm.csprojResolveAssemblyReference.cache
+C:\Users\Паша\Desktop\Учеба\ВКР\Библиотеки\OperatorAlgorithm\OperatorAlgorithm\obj\Debug\OperatorAlgorithm.dll
+C:\Users\Паша\Desktop\Учеба\ВКР\Библиотеки\OperatorAlgorithm\OperatorAlgorithm\obj\Debug\OperatorAlgorithm.pdb
+C:\Users\Паша\Desktop\Учеба\ВКР\Библиотеки\0) OperatorAlgorithm\OperatorAlgorithm\bin\Debug\OperatorAlgorithm.dll
+C:\Users\Паша\Desktop\Учеба\ВКР\Библиотеки\0) OperatorAlgorithm\OperatorAlgorithm\bin\Debug\OperatorAlgorithm.pdb
+C:\Users\Паша\Desktop\Учеба\ВКР\Библиотеки\0) OperatorAlgorithm\OperatorAlgorithm\obj\Debug\OperatorAlgorithm.csprojAssemblyReference.cache
+C:\Users\Паша\Desktop\Учеба\ВКР\Библиотеки\0) OperatorAlgorithm\OperatorAlgorithm\obj\Debug\OperatorAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Паша\Desktop\Учеба\ВКР\Библиотеки\0) OperatorAlgorithm\OperatorAlgorithm\obj\Debug\OperatorAlgorithm.dll
+C:\Users\Паша\Desktop\Учеба\ВКР\Библиотеки\0) OperatorAlgorithm\OperatorAlgorithm\obj\Debug\OperatorAlgorithm.pdb
+C:\Users\Паша\Desktop\0) OperatorAlgorithm\OperatorAlgorithm\bin\Debug\OperatorAlgorithm.dll
+C:\Users\Паша\Desktop\0) OperatorAlgorithm\OperatorAlgorithm\bin\Debug\OperatorAlgorithm.pdb
+C:\Users\Паша\Desktop\0) OperatorAlgorithm\OperatorAlgorithm\obj\Debug\OperatorAlgorithm.csprojAssemblyReference.cache
+C:\Users\Паша\Desktop\0) OperatorAlgorithm\OperatorAlgorithm\obj\Debug\OperatorAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Паша\Desktop\0) OperatorAlgorithm\OperatorAlgorithm\obj\Debug\OperatorAlgorithm.dll
+C:\Users\Паша\Desktop\0) OperatorAlgorithm\OperatorAlgorithm\obj\Debug\OperatorAlgorithm.pdb
+C:\Users\Паша\Desktop\ВКР 16\Библиотеки\0) OperatorAlgorithm\OperatorAlgorithm\bin\Debug\OperatorAlgorithm.dll
+C:\Users\Паша\Desktop\ВКР 16\Библиотеки\0) OperatorAlgorithm\OperatorAlgorithm\bin\Debug\OperatorAlgorithm.pdb
+C:\Users\Паша\Desktop\ВКР 16\Библиотеки\0) OperatorAlgorithm\OperatorAlgorithm\obj\Debug\OperatorAlgorithm.csprojAssemblyReference.cache
+C:\Users\Паша\Desktop\ВКР 16\Библиотеки\0) OperatorAlgorithm\OperatorAlgorithm\obj\Debug\OperatorAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\Паша\Desktop\ВКР 16\Библиотеки\0) OperatorAlgorithm\OperatorAlgorithm\obj\Debug\OperatorAlgorithm.dll
+C:\Users\Паша\Desktop\ВКР 16\Библиотеки\0) OperatorAlgorithm\OperatorAlgorithm\obj\Debug\OperatorAlgorithm.pdb

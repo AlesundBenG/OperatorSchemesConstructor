@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "a03LA11rBudPUMEWc6tplFVQv0BTfQZx1wxnfuEGHEWZimChUo0utx+xpIA/Yk3PcWphJ73V5Z+S28TZHrgOMg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Паша\\Desktop\\ВКР 16\\Библиотеки\\5) StatisticsTable\\StatisticsTable\\StatisticsTable\\StatisticsTable.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Паша\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Паша\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
